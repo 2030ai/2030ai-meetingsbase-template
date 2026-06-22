@@ -1,0 +1,9 @@
+name: meeting-notes
+display_name: "/meeting-notes"
+description: "/meeting-notes — Create or update structured meeting notes in the knowledge base, converting an agenda into notes when useful."
+short_description: "Create or update structured meeting notes in the knowledge base, converting an agenda into notes when useful."
+default_prompt: "Use /meeting-notes for this workflow."
+interface:
+  display_name: "/meeting-notes"
+  short_description: "Local project skill /meeting-notes"
+  default_prompt: "Use $meeting-notes for this local project workflow."

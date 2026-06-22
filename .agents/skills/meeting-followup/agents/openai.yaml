@@ -1,0 +1,9 @@
+name: meeting-followup
+display_name: "/meeting-followup"
+description: "/meeting-followup — Generate a follow-up email from meeting notes in the knowledge base, extracting decisions, action items, open questions, topic, and date."
+short_description: "Generate a follow-up email from meeting notes in the knowledge base, extracting decisions, action items, open questions, topic, and date."
+default_prompt: "Use /meeting-followup for this workflow."
+interface:
+  display_name: "/meeting-followup"
+  short_description: "Local project skill /meeting-followup"
+  default_prompt: "Use $meeting-followup for this local project workflow."

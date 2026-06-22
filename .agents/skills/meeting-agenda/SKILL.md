@@ -1,11 +1,11 @@
 ---
 name: meeting-agenda
-description: "Create a structured meeting agenda file in the knowledge base, using the provided topic/date or asking for missing essentials."
+description: "/meeting-agenda — Create a structured meeting agenda file in the knowledge base, using the provided topic/date or asking for missing essentials."
 when_to_use: "Use when the user asks: создай повестку встречи, подготовь повестку, повестка на завтра, agenda for meeting, or prepare meeting agenda."
 argument-hint: "[topic, date, participants, or context]"
 ---
 
-# Meeting Agenda
+# /meeting-agenda
 
 Создай новую повестку встречи по шаблону.
 

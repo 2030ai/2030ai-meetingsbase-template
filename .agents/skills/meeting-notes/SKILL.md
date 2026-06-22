@@ -1,11 +1,11 @@
 ---
 name: meeting-notes
-description: "Create or update structured meeting notes in the knowledge base, converting an agenda into notes when useful."
+description: "/meeting-notes — Create or update structured meeting notes in the knowledge base, converting an agenda into notes when useful."
 when_to_use: "Use when the user asks: веди заметки встречи, создай протокол, обнови протокол, meeting notes, meeting minutes, or write meeting protocol."
 argument-hint: "[meeting file path, topic, date, or live notes context]"
 ---
 
-# Meeting Notes
+# /meeting-notes
 
 Создай или обнови заметки встречи по шаблону.
 
