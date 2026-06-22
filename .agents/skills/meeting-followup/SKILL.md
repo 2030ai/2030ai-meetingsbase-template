@@ -1,11 +1,11 @@
 ---
 name: meeting-followup
-description: "Generate a follow-up email from meeting notes in the knowledge base, extracting decisions, action items, open questions, topic, and date."
+description: "/meeting-followup — Generate a follow-up email from meeting notes in the knowledge base, extracting decisions, action items, open questions, topic, and date."
 when_to_use: "Use when the user asks: создай follow-up письмо, напиши письмо по итогам встречи, зафиксируй итоги встречи письмом, generate meeting follow-up, or summarize meeting outcomes for email."
 argument-hint: "[meeting file path, topic, date, or extra context]"
 ---
 
-# Meeting Follow-Up
+# /meeting-followup
 
 Сгенерируй follow-up письмо по итогам встречи.
 

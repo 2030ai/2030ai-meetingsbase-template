@@ -1,0 +1,9 @@
+name: meeting-agenda
+display_name: "/meeting-agenda"
+description: "/meeting-agenda — Create a structured meeting agenda file in the knowledge base, using the provided topic/date or asking for missing essentials."
+short_description: "Create a structured meeting agenda file in the knowledge base, using the provided topic/date or asking for missing essentials."
+default_prompt: "Use /meeting-agenda for this workflow."
+interface:
+  display_name: "/meeting-agenda"
+  short_description: "Local project skill /meeting-agenda"
+  default_prompt: "Use $meeting-agenda for this local project workflow."
